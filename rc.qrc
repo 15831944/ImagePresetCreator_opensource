@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/uiIcon">
+        <file>src/ui/resource/icon/ic_check_box_black_24dp.png</file>
+        <file>src/ui/resource/icon/ic_delete_black_24dp.png</file>
+        <file>src/ui/resource/icon/ic_import_contacts_black_24dp.png</file>
+        <file>src/ui/resource/icon/ic_insert_drive_file_black_24dp.png</file>
+        <file>src/ui/resource/icon/ic_insert_photo_black_24dp.png</file>
+        <file>src/ui/resource/icon/Import.png</file>
+        <file>src/ui/resource/icon/search.png</file>
+        <file>src/ui/resource/icon/ic_add_circle_black_24dp.png</file>
+        <file>src/ui/resource/icon/ic_add_white_24dp.png</file>
+        <file>src/ui/resource/icon/ic_import_contacts_white_24dp.png</file>
+        <file>src/ui/resource/icon/ic_insert_drive_file_white_24dp.png</file>
+        <file>src/ui/resource/icon/ic_photo_library_black_24dp.png</file>
+        <file>src/ui/resource/icon/ic_save_white_24dp.png</file>
+    </qresource>
+</RCC>
